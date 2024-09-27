@@ -20,7 +20,7 @@ function App() {
   const [folders] = useState<Folder[]>([
     { id: 1, name: "Business", icon: "💼", todos: 40 },
     { id: 2, name: "Lifestyle", icon: "🏠", todos: 20 },
-    { id: 3, name: "Study", icon: "📚", todos: 0 },
+    { id: 3, name: "StudyForever", icon: "📚", todos: 0 },
     { id: 4, name: "Budgeting", icon: "💰", todos: 0 },
   ]);
 
