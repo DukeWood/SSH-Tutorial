@@ -18,7 +18,7 @@ function App() {
   const [todos, setTodos] = useState<Todo[]>([]);
   const [inputValue, setInputValue] = useState("");
   const [folders] = useState<Folder[]>([
-    { id: 1, name: "BusinessNOW", icon: "💼", todos: 40 },
+    { id: 1, name: "BusinessNOWFuture", icon: "💼", todos: 40 },
     { id: 2, name: "Lifestyle", icon: "🏠", todos: 20 },
     { id: 3, name: "StudyForever", icon: "📚", todos: 0 },
     { id: 4, name: "Budgeting", icon: "💰", todos: 0 },
