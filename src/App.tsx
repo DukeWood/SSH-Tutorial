@@ -24,6 +24,7 @@ function App() {
     { id: 4, name: "Budgeting", icon: "💰", todos: 0 },
   ]);
 
+
   const addTodo = () => {
     if (inputValue.trim() !== "") {
       setTodos([
