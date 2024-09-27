@@ -66,8 +66,8 @@ body {
 
 .search-bar input {
   width: 100%;
-  padding: 8px;
-  border-radius: 5px;
+  padding: 8.5px;
+  border-radius: 6px;
   border: none;
   background-color: #3a3a3a;
   color: #ffffff;
